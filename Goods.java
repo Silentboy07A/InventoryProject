@@ -1,5 +1,5 @@
 import java.util.*;
-public class Goods
+public class Goods//This is for good purchase in purchase module
   {
     public static void main(String args[])
     {
